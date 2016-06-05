@@ -3,7 +3,12 @@ hello 2
 hello 3
 hello 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 in mybranch
 =======
 hello 5
 >>>>>>> master
+=======
+hello 5
+hello 6
+>>>>>>> 241e276617ddebbe61fcc6339a3bf55c5c93a97e
